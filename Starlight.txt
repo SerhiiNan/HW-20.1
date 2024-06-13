@@ -1,3 +1,4 @@
+Hello 
  charfile_version = 1
  name = Starlight
  xp = 6787
